@@ -1,5 +1,3 @@
-Some High Quality Information
-  value: yes
 
 Feature: Google Main Page
   
